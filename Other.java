@@ -1,4 +1,4 @@
-public class MeetingInterval {
+class MeetingInterval {
 	private int startTime;
 	private int endTime;
 	
